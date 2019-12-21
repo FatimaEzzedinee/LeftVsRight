@@ -1,0 +1,34 @@
+.custom-button {
+    -fx-font: 16px "Serif";
+    -fx-background-color: #CCFF99;
+
+}
+
+.button{
+   -fx-background-color: linear-gradient(#00008b,#1e90ff); 
+   -fx-text-fill: white;
+   -fx-font-family:"Comic Sans ms";
+   -fx-background-radius: 100;
+   -fx-font-size:20px;
+   -fx-font-weight: bold;
+ 
+}
+.root{
+-fx-font-family:"Comic Sans ms";
+-fx-background-color: linear-gradient(red,lightsteelblue);
+-fx-text-fill: red;
+}
+
+.text-field{
+	   -fx-font-family:"Comic Sans ms";
+	   -fx-background-color: linear-gradient(lightskyblue,lightsteelblue); 
+}
+
+
+.label {
+    -fx-font-size: 20px;
+    -fx-font-weight: bold;
+    -fx-text-fill: White;
+    -fx-effect: dropshadow( gaussian , rgba(255,255,255,0.5) , 0,0,0,1 );
+}
+
